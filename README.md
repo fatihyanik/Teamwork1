@@ -9,3 +9,5 @@
 - Elmali
 - Kas
 - Akseki
+- Konya
+
