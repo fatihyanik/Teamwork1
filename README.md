@@ -10,4 +10,7 @@
 - Kas
 - Akseki
 - Konya
+- Corum
+- Ankara
+
 
