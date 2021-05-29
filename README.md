@@ -5,3 +5,5 @@
 - Kekova
 - Demre
 - Elmali
+- Kas
+
