@@ -4,4 +4,6 @@
 - Manavgat
 - Kekova
 - Demre
+- Elmali
 - Kas
+
