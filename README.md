@@ -10,4 +10,3 @@
 - Kas
 - Akseki
 - Konya
-
