@@ -3,3 +3,5 @@
 - Alanya
 - Manavgat
 - Kekova
+- Demre
+- Kas
