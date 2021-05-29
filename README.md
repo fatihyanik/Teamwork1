@@ -4,3 +4,4 @@
 - Manavgat
 - Kekova
 - Demre
+- Kas
