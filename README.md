@@ -12,5 +12,7 @@
 - Konya
 - Corum
 - Ankara
+- Manisa
+- Bolu
 
 
