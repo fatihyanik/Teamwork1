@@ -6,3 +6,6 @@
 - Demre
 - Kas
 - Finike
+- Elmali
+- Kas
+- Akseki
